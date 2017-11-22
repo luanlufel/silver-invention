@@ -55,3 +55,4 @@ end
 gem 'twitter-bootstrap-rails'
 gem 'devise'
 gem 'simple_form'
+gem 'auto_html', '~> 1.6'
